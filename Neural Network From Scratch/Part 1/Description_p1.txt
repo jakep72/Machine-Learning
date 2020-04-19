@@ -1,0 +1,5 @@
+Tutorials from the Youtube series "Neural Networks from Scratch"
+
+Part 1: Intro and Neuron Code
+
+https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&index=2&t=0s
