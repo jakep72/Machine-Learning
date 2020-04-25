@@ -1,0 +1,5 @@
+Tutorials from the Youtube series "Neural Networks from Scratch"
+
+Part 2: Dot Product
+
+https://www.youtube.com/watch?v=tMrbN67U9d4
