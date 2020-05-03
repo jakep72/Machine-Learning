@@ -1,0 +1,5 @@
+Tutorials from the Youtube series "Neural Networks from Scratch"
+
+Part 4: Batches, Layers, and Objects
+
+https://www.youtube.com/watch?v=TEWy9vZcxW4&list=RDCMUCfzlCWGWYyIQ0aLC5w48gBQ&index=4
