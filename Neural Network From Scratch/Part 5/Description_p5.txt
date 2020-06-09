@@ -1,0 +1,5 @@
+Tutorials from the Youtube series "Neural Networks from Scratch"
+
+Part 5: Hidden Layer Activation Functions
+
+https://www.youtube.com/watch?v=gmjzbpSVY1A&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&index=5
