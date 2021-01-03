@@ -8,8 +8,12 @@ from sklearn.model_selection import train_test_split
 
 def MLPRegress(data, yname, testsize, numlayers, layersize):
     
+    try:
+        data = pd.read_csv(data,sep=",")
+    except Exception:
+        data = pd.read_excel()
+        
     architect = (layersize,)*numlayers
-    data = pd.read_csv(data,sep=",")
     data = data.dropna()
     yframe = data[yname]
     Xframe = data.drop([yname], axis = 1)
